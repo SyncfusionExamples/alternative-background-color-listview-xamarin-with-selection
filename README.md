@@ -131,4 +131,4 @@ namespace ListViewXamarin
 ```
 **Output**
 
-![AlternateBackgroundSelection](https://github.com/SyncfusionExamples/alternative-background-color-listview-xamarin-with-selection/blob/master/ScreenShot/alternatebackground.jpg)
+![AlternateBackgroundSelection](https://github.com/SyncfusionExamples/alternative-background-color-listview-xamarin-with-selection/blob/master/ScreenShot/alternatebackground.jpeg)
